@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">   
-<a href="https://github.com/GataNina-Li/GataBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/4nni33/MeiBotTM/network/members"><img title="Forks" src="https://img.shields.io/github/forks/4nni33/MeiBotTM?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/4nni33/MeiBotTM/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/4nni33/MeiBotTM?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/4nni33/MeiBotTM/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/4nni33/MeiBotTM?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 <div align="center">
@@ -54,19 +54,19 @@
 
 | TEMA | DESCRIPCIÓN | ATAJO |
 |------|-------------|-------|
-| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-1-instalación-automática-por-termux-) |
-| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-2-instalación-manual-por-termux---github) |
-| **TERMUX** | ***INSTALACIÓN POR ARCHIVOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-3-instalación-por-termux---archivos) |
-| **TERMUX 24/7** | ***COMANDOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux) |
-| **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR GATABOT*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot) |
-| **HEROKU** | ***INSTALACIÓN POR HEROKU*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-heroku) |
-| **BOXMINE** | ***INSTALACIÓN POR BOXMINE*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-boxminehost) |
-| **REPLIT** | ***INSTALACIÓN POR REPLIT*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-replit---gatabot) |
-| **KOYEB** | ***INSTALACIÓN POR KOYEB*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-koyeb) |
-| **WINDOWS** | ***INSTALACIÓN POR WINDOWS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-para-usuarios-de-windowsvpsrdp) |
-| **PREGUNTAS FRECUENTES** | ***DESPEJAR DUDAS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-gatabot-md---preguntas) |
-| **SOBRE GATABOT** | ***SECCIONES DE INFORMACIÓN*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#sobre-gatabot--gb-global) |
-| **DESARROLLADORES** | ***PARTICIPATES DEL PROYECTO*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-creadora) |
+| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/4nni33/MeiBotTM/#-opción-1-instalación-automática-por-termux-) |
+| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/4nni33/MeiBotTM/#-opción-2-instalación-manual-por-termux---github) |
+| **TERMUX** | ***INSTALACIÓN POR ARCHIVOS*** |[ver](https://github.com/4nni33/MeiBotTM/#-opción-3-instalación-por-termux---archivos) |
+| **TERMUX 24/7** | ***COMANDOS*** |[ver](https://github.com/4nni33/MeiBotTM/#-usar-gatabot-247-en-termux) |
+| **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR GATABOT*** |[ver](https://github.com/4nni33/MeiBotTM/#-actualizar-gatabot) |
+| **HEROKU** | ***INSTALACIÓN POR HEROKU*** |[ver](https://github.com/4nni33/MeiBotTM/#-activar-en-heroku) |
+| **BOXMINE** | ***INSTALACIÓN POR BOXMINE*** |[ver](https://github.com/4nni33/MeiBotTM/#-boxminehost) |
+| **REPLIT** | ***INSTALACIÓN POR REPLIT*** |[ver](https://github.com/4nni33/MeiBotTM/#-replit---gatabot) |
+| **KOYEB** | ***INSTALACIÓN POR KOYEB*** |[ver](https://github.com/4nni33/MeiBotTM/#-activar-en-koyeb) |
+| **WINDOWS** | ***INSTALACIÓN POR WINDOWS*** |[ver](https://github.com/4nni33/MeiBotTM/#-para-usuarios-de-windowsvpsrdp) |
+| **PREGUNTAS FRECUENTES** | ***DESPEJAR DUDAS*** |[ver](https://github.com/4nni33/MeiBotTM/#-gatabot-md---preguntas) |
+| **SOBRE GATABOT** | ***SECCIONES DE INFORMACIÓN*** |[ver](https://github.com/4nni33/MeiBotTM/#sobre-gatabot--gb-global) |
+| **DESARROLLADORES** | ***PARTICIPATES DEL PROYECTO*** |[ver](https://github.com/4nni33/MeiBotTM/#-creadora) |
 -----
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
 [![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
@@ -75,23 +75,23 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com//master/gata.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash"
+"wget -O - https://raw.githubusercontent.com/4nni33/MeiBotTM/master/gata.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/gata.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
+#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/4nni33/MeiBotTM/blob/master/gata.sh)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
+//Ejemplo: git clone https://github.com/4nni33/MeiBotTM.git
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd GataBot-MD
@@ -105,13 +105,13 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 termux-setup-storage
 ```
 ```bash
-apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD && yarn install && npm install && npm start
+apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/4nni33/MeiBotTM && cd GataBot-MD && yarn install && npm install && npm start
 ```
 > **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
 ------------------
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
+### [`GataBot-MD ~ Archivos`](https://github.com/4nni33/MeiBotTM/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/UcWlyQ8u5HE)
 ```bash
@@ -154,7 +154,7 @@ pm2 start index
 ### 😼 ACTUALIZAR GATABOT
 > **Note** Comandos para actualizar GataBot-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/update.sh | bash 
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/4nni33/MeiBotTM/master/update.sh | bash 
 ```
 #### Para que no pierda su progreso en GataBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
@@ -194,14 +194,14 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### ⚡ REPLIT - GATABOT
 [![blog](https://img.shields.io/badge/Replit-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/pQYkq4xv37o)
-<a target="_blank" href="https://replit.com/github/GataNina-Li/GataBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a href="https://replit.com/github/GataNina-Li/GataBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+<a target="_blank" href="https://replit.com/github/4nni33/MeiBotTM"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a href="https://replit.com/github/4nni33/MeiBotTM"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 ------------------
 - [x] Resultado <details><summary>Importar Repositorio - GataBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ------------------
 ### 🌱 ACTIVAR EN KOYEB 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GataNina-Li/GataBot-MD&branch=master&name=gatabot-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/4nni33/MeiBotTM&branch=master&name=gatabot-md)
 
 ------------------
 ### ☁️ ACTIVAR EN RENDER 
@@ -216,7 +216,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD && npm install && npm update && node .
+git clone https://github.com/4nni33/MeiBotTM && cd GataBot-MD && npm install && npm update && node .
 ```
 ## 💻 Instalación de FFmpeg para Windows 
 * Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [FFmpeg](https://www.gyan.dev/ffmpeg/builds/).
@@ -238,10 +238,10 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 <summary><b>Configuración</b></summary>
 
   - [x] **¿Como puedo hacer una bifurcación?**<br>
-  _Puede hacerlo desde [`💚 Aquí`](https://github.com/GataNina-Li/GataBot-MD/fork)._
+  _Puede hacerlo desde [`💚 Aquí`](https://github.com/4nni33/MeiBotTM/fork)._
   
   - [x] **¿Dónde puedo agregar el número del Bot?**<br>
-  _Puede hacerlo desde el archivo [`⚙️ config.js`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js). En el apartado `global.owner` puede agregar el número del Bot y más números como Owner._
+  _Puede hacerlo desde el archivo [`⚙️ config.js`](https://github.com/4nni33/MeiBotTM/blob/master/config.js). En el apartado `global.owner` puede agregar el número del Bot y más números como Owner._
   ```js
   global.owner = [
   ['59311222333', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], // Número del Bot: Ejemplo +593 11 222 333
@@ -250,17 +250,17 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ]
   ```
   - [x] **¿Cómo edito el texto del Bot?**<br>
-  _Ir a la carpeta [`idiomas ✨`](https://github.com/GataNina-Li/GataBot-MD/tree/master/lib/idiomas) y selecciona el archivo del idioma que quiera modificar su contenido._
+  _Ir a la carpeta [`idiomas ✨`](https://github.com/4nni33/MeiBotTM/tree/master/lib/idiomas) y selecciona el archivo del idioma que quiera modificar su contenido._
   
   - [x] **¿Dónde puedo cambiar el idioma de GataBot?**<br>
-  _Puede cambiar el idioma ingresando [`Aquí`](https://github.com/GataNina-Li/GataBot-MD/blob/362ee2d694a033923efd9bf9ca16a2b0694e3073/config.js#L41)_
+  _Puede cambiar el idioma ingresando [`Aquí`](https://github.com/4nni33/MeiBotTM/blob/362ee2d694a033923efd9bf9ca16a2b0694e3073/config.js#L41)_
 </details>
 
 <details>
 <summary><b>Preguntas sobre Termux</b></summary>
 
   - [x] **¿Cómo puedo instalar GataBot en Termux?**<br>
-  _Puede usar la [`Instalación Automática 😼`](https://github.com/GataNina-Li/GataBot-MD/#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-por-termux-) si es la primera vez que va instalar._<br>
+  _Puede usar la [`Instalación Automática 😼`](https://github.com/4nni33/MeiBotTM/#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-por-termux-) si es la primera vez que va instalar._<br>
   
   - [x] **¿Cómo puedo descargar Termux?**<br>
   _Puede descargar la versión de Termux e instalar [`Aquí 😉`](https://f-droid.org/es/packages/com.termux/)._
@@ -277,14 +277,14 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
   _Use el botón de termux `CTRL` + Tecla `Z` para detener termux._
   
   - [x] **Quiero tener Termux 24/7 ¿Cómo lo hago?**<br>
-  _Desde la carpeta de GataBot use los comandos [`24/7 Termux 🚀`](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux)_
+  _Desde la carpeta de GataBot use los comandos [`24/7 Termux 🚀`](https://github.com/4nni33/MeiBotTM/#-usar-gatabot-247-en-termux)_
   <details><summary>Ejemplo</summary><img src="https://i.imgur.com/ZNarv99.jpeg"></details>
   
   - [x] **Comandos para obtener nuevo código QR:**<br>
   _Diga estos comandos desde la carpeta de GataBot `rm -rf GataBotSession && npm start`_
   
   - [x] **¿Cómo actualizar GataBot?**<br>
-  _Desde la carpeta de GataBot usar los commandos para [`♻️ Actualizar GataBot-MD`](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot)_
+  _Desde la carpeta de GataBot usar los commandos para [`♻️ Actualizar GataBot-MD`](https://github.com/4nni33/MeiBotTM/#-actualizar-gatabot)_
   <details><summary>Ejemplo</summary><img src="https://i.imgur.com/1kLVQj4.jpeg"></details>
   
   - [x] **¿Que hago si no responde el Bot después de iniciar o si muestra un mensje diciendo "Mensaje en espera"?**<br>
@@ -298,7 +298,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 _Puede visitar el tutorial [`💛 GataBot-MD ~ BoxMine`](https://youtu.be/Ko019wvu2Tc)_
 
 - [x] **¿Cómo puedo crear una cuenta en BoxMine?**<br>
-_Puede ver esa información [`Aquí 👈`](https://github.com/GataNina-Li/GataBot-MD/#-boxminehost)_
+_Puede ver esa información [`Aquí 👈`](https://github.com/4nni33/MeiBotTM/#-boxminehost)_
 
 - [x] **¿Cómo puedo actualizar?**<br>
 _Detener el servidor con el botón `STOP` luego ir a la pestaña `FILES` y descargar el archivo `database.json` dicho archivo es donde se almacena el progreso del Bot, luego de hacer el respaldo debe de eliminar todos los archivos y carpetas de `FILES`, luego ir a la pestaña `SETTINGS` y usar el Botón `REINSTALL SERVER` después espera un momento y cuando aparezca información del servidor ir a la pestaña `FILES` para agregar el archivo `database.json` que respaldó, luego guardar los cambios ir a la pestaña `CONSOLE` y usar el Botón `RESTART`. De ese modo se actualizará el Bot (Cabe recalcar que se borrará las configuraciones que hizo en `config.js` por lo que si quiere volver agregar la información deberá de editar dicho archivo antes de usar `RESTART`)._
@@ -376,7 +376,7 @@ _Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBo
 </details>
 
 ----
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/4nni33/MeiBotTM/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
@@ -390,8 +390,8 @@ _Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBo
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
+<a href="https://github.com/4nni33/MeiBotTM/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=4nni33/MeiBotTM" /> 
 </a>
 
 ### 🌟 AGRADECIMIENTOS
