@@ -1,5 +1,4 @@
-//import { generateWAMessageFromContent } from '@adiwajshing/baileys'
-let generateWAMessageFromContent = (await import(global.baileys)).default
+import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 import * as fs from 'fs'
 let handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
 try {  
@@ -21,7 +20,7 @@ let mime = (quoted.msg || quoted).mimetype || ''
 let isMedia = /image|video|sticker|audio/.test(mime)
 let more = String.fromCharCode(8206)
 let masss = more.repeat(850)
-let htextos = `${text ? text : "*Hola!!*"}`
+let htextos = `${text ? text : "*Hola :D*"}`
 if ((isMedia && quoted.mtype === 'imageMessage') && htextos) {
 var mediax = await quoted.download?.()
 conn.sendMessage(m.chat, { image: mediax, mentions: users, caption: htextos, mentions: users }, { quoted: m })
@@ -35,7 +34,7 @@ conn.sendMessage(m.chat, { audio: mediax, mentions: users, mimetype: 'audio/mp4'
 var mediax = await quoted.download?.()
 conn.sendMessage(m.chat, {sticker: mediax, mentions: users}, { quoted: m })
 } else {
-await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: img14, sourceUrl: md }}}}}, {})
+await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: imagen1, sourceUrl: 'https://github.com/BrunoSobrino/TheMystic-Bot-MD' }}}}}, {})
 }}}
 handler.command = /^(hidetag|notificar|notify)$/i
 handler.group = true
